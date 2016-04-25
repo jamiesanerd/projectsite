@@ -1,0 +1,31 @@
+{
+  "name": "projectsite",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiesanerd/projectsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiesanerd/projectsite/issues"
+  },
+  "homepage": "https://github.com/jamiesanerd/projectsite#readme",
+  "devDependencies": {
+    "ecstatic": "^1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.3.1",
+    "tiny-lr": "^0.2.1",
+    "browser-sync": "^2.7.5"
+  }
+}

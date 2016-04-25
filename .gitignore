@@ -1,2 +1,4 @@
-/files/**/*
-/font-awesome/**/*
+/node_modules/**/*
+/dist/**/*
+.DS_Store
+/**/.DS_Store
